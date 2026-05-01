@@ -1,0 +1,13 @@
+Away	Home	Spread (H)	O/U	Away score	Home score
+no	car	2.5	41	14	22
+dal	nyg	-1.5	39	23	16
+LAR	SF	-1.5	42.5	9	24
+JAX	IND	-2.5	42	27	34
+IND	TEN	-2.5	42	10	19
+NE	NYJ	2.5	40.5	22	17
+TEN	HOU	2.5	40.5	17	10
+ATL	CAR	2.5	41.5	15	25
+ARI	LAR	-1.5	40.5	27	17
+LV	DEN	-2.5	41	22	16
+WAS	NYG	2.5	40	20	20
+BAL	PIT	-2.5	36.5	16	14
